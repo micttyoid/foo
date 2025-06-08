@@ -6,6 +6,8 @@ Assuming your private registry named "craps" (which is actually my registry)
 
 ```sh
 git clone https://github.com/micttyoid/foo.git
+cd foo
 cargo publish --allow-dirty --registry craps
-# then check the registry
+
+# ... check the registry ...
 ```
