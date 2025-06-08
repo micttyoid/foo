@@ -1,0 +1,2 @@
+[registries]
+craps = { index = "http://localhost:4200/git/index/" }
