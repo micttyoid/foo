@@ -1,8 +1,8 @@
 # Foo: A dummy package for registry testing
 
-## After a fresh registry setup
+## After setup of a fresh registry
 
-Assuming your private registry named "craps" (which is actually my registry)
+Assuming your private registry named `craps` (which is indeed my registry)
 
 ```sh
 git clone https://github.com/micttyoid/foo.git
