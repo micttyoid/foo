@@ -2,7 +2,7 @@
 name = "foo"
 version = "0.1.0"
 edition = "2024"
-publish = ["craps"]
+publish = ["craps", "ktra"]
 authors = ["Luke Yoo <w.lukeyoo@gmail.com>"]
 license = "BSD-3-Clause"
 description = "A dummy package for registry testing"
